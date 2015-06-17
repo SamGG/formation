@@ -2,7 +2,7 @@ This part aims to get familiar with features analysis. A feature could be any in
 
 ## CytoPrep: prepare features for MeV
 
-1. Run CytPrep on RStudio
+1. Run CytPrep on RStudio: shiny::runGitHub('bioinfoxtra/cytometry', subdir='cytoPreparePercent')
 2. Scale interactively the feature set
 
 ## MeV: visualize features, then apply statistical analyses
