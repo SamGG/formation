@@ -1,2 +1,3 @@
-# formation_r
-# https://raw.githubusercontent.com/bioinfoxtra/formation_r/master/decath.csv
+# formation
+
+https://raw.githubusercontent.com/bioinfoxtra/formation/r_intro/master/decath.csv
