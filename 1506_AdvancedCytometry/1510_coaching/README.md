@@ -1,1 +1,1 @@
-Here is the documented R script of the processing.
+Here is the documented R script for processing FlowJo export.
