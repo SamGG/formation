@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
-aside a.no-icon {
-  background: transparent 0 0 no-repeat;
+aside a.button {
+  display: block;
+  width: 138px;
+  padding-left: 64px;
+  margin-bottom: 20px;
+  font-size: 21px;
+  background: none;
 }
