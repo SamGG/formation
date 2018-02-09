@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+aside a.button {
+  padding-left: 24px;
+}
