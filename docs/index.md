@@ -11,4 +11,4 @@ title: Formation
 
 ## Proteomics
 
-Tous les documents (y compris ceux non répertoriés dans cette page) se trouvent à [SamGG/formation/](https://github.com/SamGG/formation/)
+Tous les documents (y compris ceux non répertoriés dans cette page) se trouvent à [SamGG/formation](https://github.com/SamGG/formation/)
