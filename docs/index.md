@@ -11,4 +11,4 @@ title: Formation
 
 ## Proteomics
 
-https://github.com/SamGG/formation/new/master/docs
+Tous les documents (y compris ceux non répertoriés dans cette page) se trouvent à [SamGG/formation/](https://github.com/SamGG/formation/)
