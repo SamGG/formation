@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+aside a.no-icon {
+  background: transparent 0 0 no-repeat;
+}
