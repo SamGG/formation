@@ -1,0 +1,7 @@
+navbar:
+  title: "DecodeBiodata Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
